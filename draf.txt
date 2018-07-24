@@ -1,0 +1,52 @@
+https://books.google.co.id/books?hl=en&lr=&id=TBvjCwAAQBAJ&oi=fnd&pg=PA103&dq=system+theory&ots=Ige9wSXOxj&sig=etqph6vRHfpIlXM-uvq4crLUSF4&redir_esc=y#v=onepage&q=system%20theory&f=false
+15 april 2018 21.12
+
+system engineering and analysis 5th edition
+chapter 1
+a system is complete set of component which interact or are independent from on stage
+to another; for any specific task performance or generating required output. Every system
+is structured such that its components are related. Also any structure show behaviour, which 
+translates the input given to it; into organized output.
+
+isbn-13 : 97801032217354
+isbn : 013221735x
+6 feb 2010
+Benjamin S Blanchard, wolter j fabrycky
+link : http://www.chegg.com/homework-help/systems-engineering-and-analysis-5th-edition-chapter-1-solutions-9780132217354
+15 april 2018 21.15
+
+nosql
+https://books.google.ca/books?id=oPiT-V2eYTsC&printsec=frontcover&dq=pengertian+Nosql&hl=en&sa=X&ved=0ahUKEwiFqr6WqL_aAhWjzIMKHckVAS4Q6AEIaDAK#v=onepage&q&f=false
+17 aprl 2018 0.35
+http://airccse.org/journal/ijdms/papers/6314ijdms01.pdf
+23 aprl 2018 13.37
+1.	NoSQL (Not Only Structured Query Language)
+Menurut Gaurav Vaish berdasarkan Wikipedia (2013:2): 
+	In computing, NoSQL (mostly interpreted as “not only SQL”) is a Broad class of database management system identified by its non-adherence to widely used relational database management system model; that is, NoSQL databases are not primarily built on tables, and as a result, generally do not use SQL data manipulation.
+Dalam Komputer, NoSQL (lebih sering diartikan sebagai “tidak hanya SQL”)  merupakan suatu bagian dari kelas sitem menejemen  database diidentifikasi dari ketidaksesuaian penggunaan model relasional system manajemen database secara luas, yang berarti NoSQL database tidak mengutamakan dibuat table, dan sebagai hasil, umumnya tidak menggunakan SQL untuk memanipulasi data.
+
+
+firebase
+https://books.google.ca/books?id=PM0RBwAAQBAJ&printsec=frontcover&dq=pengertian+firebase&hl=en&sa=X&ved=0ahUKEwjQj8rgqb_aAhWHnoMKHdB2AUEQ6AEISTAF#v=onepage&q=nosql&f=false
+17 aprl 2018 1.38
+https://books.google.ca/books?id=KWxODwAAQBAJ&pg=PA10&dq=firebase+adalah&hl=en&sa=X&ved=0ahUKEwi6kqPKqb_aAhVH5IMKHUFQA5AQ6AEIKTAA#v=onepage&q=firebase%20adalah&f=false
+17 aprl 2018 1.45
+https://books.google.co.id/books?id=iJpVDwAAQBAJ&pg=PA170&dq=firebase+is&hl=en&sa=X&ved=0ahUKEwj6s9XivNXaAhVFI5QKHcIPA80Q6AEILTAB#v=onepage&q=firebase%20is&f=false
+17 april 2018 1.55 (p1)
+https://books.google.co.id/books?id=mkFPDwAAQBAJ&printsec=frontcover&dq=firebase+is&hl=en&sa=X&ved=0ahUKEwj6s9XivNXaAhVFI5QKHcIPA80Q6AEIJzAA#v=onepage&q=firebase%20is&f=true
+17 april 2018 2.30
+https://books.google.co.id/books?id=JeeODAAAQBAJ&pg=PP2&dq=firebase+is&hl=en&sa=X&ved=0ahUKEwjT5cqIy9XaAhUGoZQKHbFPCGcQ6AEIOjAD#v=onepage&q=firebase%20is&f=true
+17 april 2018 2.33 (p2)
+https://books.google.co.id/books?id=8RhKDwAAQBAJ&pg=PA73&dq=firebase+is&hl=en&sa=X&ved=0ahUKEwjT5cqIy9XaAhUGoZQKHbFPCGcQ6AEIQDAE#v=onepage&q=firebase%20is&f=true
+17 april 2018 2.35 (p3)
+https://books.google.co.id/books?id=ox0-DwAAQBAJ&pg=PA127&dq=firebase+is&hl=en&sa=X&ved=0ahUKEwjT5cqIy9XaAhUGoZQKHbFPCGcQ6AEINDAC#v=onepage&q=firebase%20is&f=true
+
+
+Mobile Cloud Computing: Foundations and Service Models by By Dijiang Huang, Huijun Wu page 6 about cloud computing +
+https://books.google.nl/books?id=dupGDgAAQBAJ&printsec=frontcover&dq=mobile+komputasi+awan&hl=en&sa=X&ved=0ahUKEwi10IuVhILbAhWLyaQKHVxBAZYQ6AEIKTAA#v=onepage&q=mobile%20komputasi%20awan&f=true
+mobile computing page 9.
+akses 20 april 2018 3.02
+Asoke K. Talukdar page 5 Mobile Computing, 2E
+https://books.google.nl/books?id=4QUiBAAAQBAJ&printsec=frontcover&dq=mobile+computing&hl=en&sa=X&ved=0ahUKEwjo2eXc1oLbAhVB2KQKHfzUAOUQ6AEIKTAA#v=onepage&q=mobile%20computing&f=false
+
+cloud computing Mohamad Jamil, Roshihan, dan Achmad Fuad isbn 6024012306, 9786024012304 Deepublish, 2016

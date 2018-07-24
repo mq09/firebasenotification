@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "46756667636",
+    "firebase_url": "https://appgembalabaik-2018.firebaseio.com",
+    "project_id": "appgembalabaik-2018",
+    "storage_bucket": "appgembalabaik-2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46756667636:android:c37f978ac4160337",
+        "android_client_info": {
+          "package_name": "com.application.gembalabaik2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46756667636-p7jpu56ip4omt853opvlksmrhus3hvj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGca5VoaW18p55-kT-4TomNKzOulQF-UI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

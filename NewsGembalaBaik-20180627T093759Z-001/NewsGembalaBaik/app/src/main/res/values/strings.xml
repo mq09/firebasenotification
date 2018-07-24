@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gembala Baik</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_parent">Parent</string>
+    <string name="title_class">Class</string>
+    <string name="title_news">News</string>
+    <string name="title_notif">Notif</string>
+    <string name="sf_islogin"></string>
+</resources>
